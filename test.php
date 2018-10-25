@@ -9,4 +9,5 @@
  * Make new project
  * Prefs -> VCS -> GitHub sign in
  */
+echo "Hello";
 ?>
