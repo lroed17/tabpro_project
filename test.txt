@@ -3,3 +3,7 @@ hello
 
 hi
 im chris
+test again
+command s - save
+command k - commit
+command shift k - push
