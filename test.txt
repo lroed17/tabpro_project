@@ -27,3 +27,6 @@ command shift k - push
 
 How to download changes from git:
 
+
+
+this is tim
