@@ -7,3 +7,5 @@ test again
 command s - save
 command k - commit
 command shift k - push
+
+this is tim
