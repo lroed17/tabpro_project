@@ -4,6 +4,26 @@ hello
 hi
 im chris
 test again
+
+
+Instructions for setting up git for the first time:
+
+empty php project -> tabpro
+VCS enable, git
+go to prefrences - vcs - login to your git
+vcs define remotes (copy in url from phpstorm)
+vcs / git / pull
+
+
+
+
+
+How to upload changes to git:
+
 command s - save
 command k - commit
 command shift k - push
+
+
+How to download changes from git:
+
