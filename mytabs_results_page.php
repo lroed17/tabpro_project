@@ -74,6 +74,19 @@ echo "Your results returned " .
         <input type="submit" value="Submit_search_tabs" style="background-color: blueviolet; color: white; border: 0"></div>
 </div>
 </form>
+<?php
+while($currentrow = $results->fetch_assoc()) {
+    echo "<strong>" .
+        $currentrow['song_name'] .
+        "</strong> <em>(user: " .
+        $currentrow["username"] .
+        "), ". $currentrow["artist"] . "  " .$currentrow["created_on"] . "   " . $currentrow["genre"] . "   " . $currentrow["category"] . "<strong>  Capo: " .
+        $currentrow["capo"] . "</strong>   ".
+        "</em><br><br>";
+}
+
+
+?>
 
 </body>
 </html>
