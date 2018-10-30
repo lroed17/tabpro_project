@@ -10,4 +10,5 @@
  * Prefs -> VCS -> GitHub sign in
  */
 echo "Hello";
+echo "Is this working?";
 ?>
