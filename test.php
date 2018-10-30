@@ -10,4 +10,6 @@
  * Prefs -> VCS -> GitHub sign in
  */
 echo "Hello";
+echo "Is this working?3?";
+echo "hi:";
 ?>
